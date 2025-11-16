@@ -46,9 +46,17 @@
 
 SSH-сервер установлен, запущен и доступен на порту **22**.
 
+### Скриншоты процесса:
+
 <img width="1123" height="527" alt="image" src="https://github.com/user-attachments/assets/cbde791e-2eb5-4bfd-8994-55b5ef6fda53" />
+
+
 <img width="1113" height="248" alt="image" src="https://github.com/user-attachments/assets/3086a7fb-de55-40b8-b310-eba817c538cb" />
+
+
 <img width="1131" height="454" alt="image" src="https://github.com/user-attachments/assets/44725a91-4445-4030-ab50-ab23074e2a5d" />
+
+
 <img width="1497" height="95" alt="image" src="https://github.com/user-attachments/assets/5451470e-a6a7-4bd0-bd69-5f643feb3535" />
 
 
@@ -90,9 +98,17 @@ SSH-сервер установлен, запущен и доступен на �
 
 Удалённое SSH-подключение успешно установлено.
 
+### Скриншоты процесса:
+
 <img width="1255" height="373" alt="image" src="https://github.com/user-attachments/assets/2f189cb3-0741-4312-8de2-bf7c7c753b05" />
+
+
 <img width="1252" height="748" alt="image" src="https://github.com/user-attachments/assets/47c6e3c8-2b55-42c8-a3ca-ad66d47fe30e" />
+
+
 <img width="902" height="593" alt="image" src="https://github.com/user-attachments/assets/d78cde1b-cd49-4483-83b2-5679e0288ae8" />
+
+
 
 ------------------------------------------------------------------------
 
@@ -120,11 +136,23 @@ SSH-сервер установлен, запущен и доступен на �
 
 Файл успешно скопирован в обоих направлениях.
 
+### Скриншоты процесса:
+
 <img width="1452" height="274" alt="image" src="https://github.com/user-attachments/assets/47d6d77c-d25b-4eb5-9e9d-c61157bd169f" />
+
+
 <img width="1126" height="422" alt="image" src="https://github.com/user-attachments/assets/29e85bcc-1f94-4cfc-b76b-11ec04dccc6a" />
+
+
 <img width="927" height="77" alt="image" src="https://github.com/user-attachments/assets/1a48789d-2c1e-461f-9a32-ee73ffe2afc7" />
+
+
 <img width="1441" height="137" alt="image" src="https://github.com/user-attachments/assets/91f69708-5ca9-468c-9b19-2c47426abadf" />
+
+
 <img width="891" height="66" alt="image" src="https://github.com/user-attachments/assets/8793f924-2fc1-49a1-a88b-a4b2ded20d82" />
+
+
 
 ------------------------------------------------------------------------
 
@@ -172,8 +200,14 @@ SSH-сервер установлен, запущен и доступен на �
 
 Подключение работает **по ключу**, без ввода пароля.
 
+### Скриншоты процесса:
+
 <img width="1108" height="542" alt="image" src="https://github.com/user-attachments/assets/5e6f9369-047c-49b7-8a99-a243606ab11c" />
+
+
 <img width="1117" height="137" alt="image" src="https://github.com/user-attachments/assets/8e449857-1bcc-4d61-8337-909ef9462c13" />
+
+
 <img width="1239" height="501" alt="image" src="https://github.com/user-attachments/assets/3a6f19e0-c0e3-4792-b2e0-5351b147b66f" />
 
 
